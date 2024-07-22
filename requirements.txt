@@ -1,0 +1,7 @@
+requests
+ffmpeg-python
+pydub
+fuzzywuzzy
+instagrapi
+tiktok_uploader
+opencv-python
